@@ -1,0 +1,7 @@
+htmlファイルは含まれていませんので、JavaScriptの実行やPHPの呼び出しは自分で書く必要があります。
+
+user_steram_api.php に、consumer_key や access_token　を設定することを忘れずに。
+
+学祭期間中のみの利用ということで,対応しなかった例外、バグなどが多く含まれています。
+
+また、ライブラリとしてPEARのOAuthを利用しています。
